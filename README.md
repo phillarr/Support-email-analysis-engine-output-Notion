@@ -6,6 +6,8 @@ A version that logs to Google Sheets is available here: [Support-email-analysis-
 
 ## The scenario
 
+![Make.com scenario: Gmail → Mistral AI → JSON → Notion](images/make-scenario.png)
+
 ```
 Gmail (new email) ──► Mistral AI (extract as JSON) ──► Parse JSON ──► Notion (create item)
 ```
