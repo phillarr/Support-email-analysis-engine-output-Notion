@@ -2,7 +2,9 @@
 
 A [Make.com](https://www.make.com) scenario that reads incoming customer support emails, uses an AI model (Mistral) to extract the key information (customer, order, issue type, urgency, requested action...), and logs each email in a Notion database.
 
-A version that logs to Google Sheets is available here: [Support-email-analysis-engine-output-Google-Sheets](https://github.com/phillarr/Support-email-analysis-engine-output-Google-Sheets).
+Other versions of this scenario:
+- [Google Sheets](https://github.com/phillarr/Support-email-analysis-engine-output-Google-Sheets)
+- [Excel](https://github.com/phillarr/Support-email-analysis-engine-output-Excel): uses a Mistral agent and also extracts `CustomerSince`
 
 ▶️ **Video tutorial:** [watch on YouTube](https://www.youtube.com/watch?v=1S-2nc5b0sk)
 
