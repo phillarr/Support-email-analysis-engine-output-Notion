@@ -81,3 +81,7 @@ Create a database with these properties:
 - **Email contents are sent to Mistral AI** for processing. Only use this with mailboxes whose data you are allowed to share with a third-party AI provider.
 - **API keys and OAuth tokens stay in your Make connections** and are never exported in the blueprint.
 - **Emails are untrusted input.** Someone could write an email designed to trick the AI (prompt injection) and fill the database with misleading data.
+
+## License
+
+[MIT](LICENSE)
