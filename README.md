@@ -4,6 +4,10 @@ A [Make.com](https://www.make.com) scenario that reads incoming customer support
 
 A version that logs to Google Sheets is available here: [Support-email-analysis-engine-output-Google-Sheets](https://github.com/phillarr/Support-email-analysis-engine-output-Google-Sheets).
 
+▶️ **Video tutorial:** [watch on YouTube](https://www.youtube.com/watch?v=1S-2nc5b0sk)
+
+[![Watch the tutorial on YouTube](https://img.youtube.com/vi/1S-2nc5b0sk/hqdefault.jpg)](https://www.youtube.com/watch?v=1S-2nc5b0sk)
+
 ## The scenario
 
 ![Make.com scenario: Gmail → Mistral AI → JSON → Notion](images/make-scenario.png)
